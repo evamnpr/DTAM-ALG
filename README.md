@@ -1,2 +1,2 @@
 # DTAM-ALG
-To save code for ALGT class
+To save code for Algorítmia class
